@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tab Fragments</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TAB COLOR ELEMENTS -->
+    <color name="tab_text_color_active">#336699</color>
+    <color name="tab_background_active">#ddf5f5</color>
+    <color name="tab_text_color_inactive">#ddf5f5</color>
+    <color name="tab_background_inactive">#336699</color>
+
+
+
+
+</resources>
