@@ -7,8 +7,8 @@ The tabs in this project are fragments.  Each tab's position is synced with a co
 
 The tabs can scroll independently from the swiping action of the ViewPager.  
 
-Clicking a tab will cycle the ViewPager to the approriate content fragment.
+Clicking a tab will cycle the ViewPager to the appropriate content fragment.
 
-Swiping the ViewPager will activate and scroll to the approriate tab fragment.
+Swiping the ViewPager will activate and scroll to the appropriate tab fragment.
 
 
